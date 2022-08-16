@@ -2,14 +2,18 @@
 
 Este é o meu primeiro projeto como programador, ele foi desenvolvido durante o curso de HTML5 e CSS3 da [Alura](https//:www.alura.com.br)
 
-### Ajustes e melhorias
+___
+
+#### Ajustes e melhorias
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltados nos seguintes módulos:
 
 - [x] Módulo 1
-- [ ] Módulo 2
+- [x] Módulo 2
 - [ ] Módulo 3
 - [ ] Módulo 4
+
+___
 
 ### *Abaixo estão detalhados os principais conceitos aprendidos durante todo o curso:*
 
@@ -48,6 +52,4 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 ## 📝 Licença
 
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
-
-[⬆ Voltar ao topo](#nome-do-projeto)<br>
+Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE) para mais detalhes.
