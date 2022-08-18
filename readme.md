@@ -10,7 +10,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 - [x] Módulo 1
 - [x] Módulo 2
-- [ ] Módulo 3
+- [x] Módulo 3
 - [ ] Módulo 4
 
 ___
