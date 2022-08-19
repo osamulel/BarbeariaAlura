@@ -10,8 +10,8 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 - [x] Módulo 1
 - [x] Módulo 2
-- [ ] Módulo 3
-- [ ] Módulo 4
+- [x] Módulo 3
+- [x] Módulo 4
 
 ___
 
@@ -47,8 +47,7 @@ ___
 
 ## 🖥️ Tecnologias
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
 
 ## 📝 Licença
 
